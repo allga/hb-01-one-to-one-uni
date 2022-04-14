@@ -1,2 +1,2 @@
 2222222222 (user2 changed from master)
-Another line from user1
+line from user2
